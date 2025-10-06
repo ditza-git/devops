@@ -5,3 +5,9 @@ Adding for Lab2b
 [![LICENSE](https://img.shields.io/github/license/<github-ditza-git>/devops.svg?style=flat-square)](https://github.com/<github-username>/devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/<github-ditza-git>/devops/all.svg?style=flat-square)](https://github.com/<github-username>/devops/releases)
+
+[![LICENSE](https://img.shields.io/github/license/<ditza-git>/devops.svg?style=flat-square)](https://github.com/ditza-git/devops/blob/master/LICENSE)
+
+
+
+[![Releases](https://img.shields.io/github/release/<ditza-git>/devops/all.svg?style=flat-square)](https://github.com/ditza-git/devops/releases
